@@ -21,7 +21,7 @@ function ImageGrid(info){
                 <div className="my-3 p-3">
                     <h2 className="display-6">{info.head}</h2>
                 </div>
-                <a href={`/Anime${info.url}`}>
+                <a href={`/#/Anime${info.url}`}>
                   <img src={info.img} alt="Your Name" />
                 </a>
 
