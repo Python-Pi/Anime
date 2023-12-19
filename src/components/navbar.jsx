@@ -31,7 +31,7 @@ function NavBar(){
                 <Navbar.Collapse className="justify-content-end">
                     <Nav className="ml-auto">
                         <ul className={`nav navbar-nav ${scrolled ? "scrolled" : ""}`}>
-                            <li className="nav-item"><a className="nav-link Nav-Name" href="/">Anime</a></li>
+                            <li className="nav-item"><a className="nav-link Nav-Name" href="/Anime">Anime</a></li>
                             <li className="nav-item"><a className="nav-link Nav-Name" href="#top">About</a></li>
                         </ul>
                     </Nav>

@@ -17,11 +17,11 @@ function Grid() {
       </div>
       <div id='Grid'>
         <div className="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3 tryFlex" >
-          <ImageGrid head='Your Name' img={YourNameImage} url='/your-name'/>
+          <ImageGrid head='Your Name' img={YourNameImage} url='/your-name/'/>
           <ImageGrid head='Suzume' img={SuzumeImg} url='/suzume'/>
           <ImageGrid head='Tenki No Ko' img={TenkiNoKo} url='/tenki'/>
           <ImageGrid head='Jujutsu Kaisen' img={JujutsuImage} url='/jujutsu'/>
-          <ImageGrid head='Demon Slayer' img={DemonSlayerImage} url='/demon-slayer'/>
+          <ImageGrid head='Demon Slayer' img={DemonSlayerImage} url='/demon-slayer/'/>
           <ImageGrid head='Attack On Titans' img={AOTImg} url='/aot'/>
           <ImageGrid head='Naruto' img={NarutoImage} url='/naruto'/>
           <ImageGrid head='Horimiya' img={HorimiyaImg} url='/horimiya'/>

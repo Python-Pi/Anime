@@ -23,14 +23,14 @@ function App(){
         <AnimatePresence mode="wait">
             <Routes location={location} key={location.pathname}>
                 <Route path="/" element={<Main />} />
-                <Route path='/demon-slayer' element={<Demon />} />
-                <Route path='/your-name' element={<Kimi />} />
-                <Route path='/suzume' element={<Suzume />} />
-                <Route path='/tenki' element={<Tenki />} />
-                <Route path='/horimiya' element={<Horimiya />} />
-                <Route path='/jujutsu' element={<JujutsuK />} />
-                <Route path='/aot' element={<Aot />} />
-                <Route path='/naruto' element={<Naruto />} />
+                <Route path='/demon-slayer/' element={<Demon />} />
+                <Route path='/your-name/' element={<Kimi />} />
+                <Route path='/suzume/' element={<Suzume />} />
+                <Route path='/tenki/' element={<Tenki />} />
+                <Route path='/horimiya/' element={<Horimiya />} />
+                <Route path='/jujutsu/' element={<JujutsuK />} />
+                <Route path='/aot/' element={<Aot />} />
+                <Route path='/naruto/' element={<Naruto />} />
             </Routes>
         </AnimatePresence>
     );
