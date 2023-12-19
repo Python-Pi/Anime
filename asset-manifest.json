@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Anime/static/css/main.f86afd7d.css",
-    "main.js": "/Anime/static/js/main.a9a5d47c.js",
+    "main.js": "/Anime/static/js/main.68b7af80.js",
     "static/media/a4.jpeg": "/Anime/static/media/a4.434a26c571ead695b71b.jpeg",
     "static/media/suzume.jpg": "/Anime/static/media/suzume.1fb71e1198282d395b37.jpg",
     "static/media/2.png": "/Anime/static/media/2.415fffde129f621ed0bf.png",
@@ -56,10 +56,10 @@
     "static/media/4.webp": "/Anime/static/media/4.7802b8de2e47068ca4ac.webp",
     "index.html": "/Anime/index.html",
     "main.f86afd7d.css.map": "/Anime/static/css/main.f86afd7d.css.map",
-    "main.a9a5d47c.js.map": "/Anime/static/js/main.a9a5d47c.js.map"
+    "main.68b7af80.js.map": "/Anime/static/js/main.68b7af80.js.map"
   },
   "entrypoints": [
     "static/css/main.f86afd7d.css",
-    "static/js/main.a9a5d47c.js"
+    "static/js/main.68b7af80.js"
   ]
 }
